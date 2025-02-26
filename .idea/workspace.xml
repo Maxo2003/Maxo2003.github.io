@@ -6,7 +6,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7378a52-fc87-47b1-a525-4fd70c26ff49" name="Changes" comment="" />
+    <list default="true" id="f7378a52-fc87-47b1-a525-4fd70c26ff49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Maxo2003.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Maxo2003.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +54,11 @@
       <updated>1740030096414</updated>
       <workItem from="1740030117239" duration="607000" />
       <workItem from="1740416243068" duration="41000" />
+      <workItem from="1740417337884" duration="15000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
